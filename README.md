@@ -1,6 +1,6 @@
 # 2048game-hexBoard
 
-Demo: http://this.mikalai-2048hex.surge.sh
+Demo: <a href="http://this.mikalai-2048hex.surge.sh" target="_blank">here</a>
 
 # Usage
 You can move hexagons with keys: **Q**, **W**, **E**, **A**, **S**, **D**
@@ -16,6 +16,6 @@ You can move hexagons with keys: **Q**, **W**, **E**, **A**, **S**, **D**
 # Examples
 You can also change the radius of the hexagon. Value 2 is default.
 
-http://this.mikalai-2048hex.surge.sh/?radius=5
+<a href="http://this.mikalai-2048hex.surge.sh/?radius=5" target="_blank">Demo: radius 5</a>
 
-http://this.mikalai-2048hex.surge.sh/?radius=10
+<a href="http://this.mikalai-2048hex.surge.sh/?radius=10" target="_blank">Demo: radius 10</a>
