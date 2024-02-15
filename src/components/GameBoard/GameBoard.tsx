@@ -25,7 +25,8 @@ import {
 import { getRNGPoints } from "../genRandomPoints/genRandomPoints";
 
 const GameBoard = () => {
-  const radius = RADIUS_DEFAULT;
+  const queryParams = new URLSearchParams(window.location.search);
+  const radius = queryParams.get("radius") || RADIUS_DEFAULT;
   const centerCoordinate = { q: 0, r: 0, s: 0 };
   const size = +radius;
   const hexRadiusPX = calculateSizeOfHex(SIZE_OF_HEX_DEFAULT, +radius);
