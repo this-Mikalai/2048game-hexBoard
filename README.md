@@ -1,6 +1,6 @@
 # 2048game-hexBoard
 
-[Demo: here](http://this.mikalai-2048hex.surge.sh){:target="_blank"}
+Demo: <a href="http://this.mikalai-2048hex.surge.sh" target="_blank">here</a>
 
 # Usage
 You can move hexagons with keys: **Q**, **W**, **E**, **A**, **S**, **D**
